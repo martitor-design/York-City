@@ -1,5 +1,11 @@
-york-summer-portal/.next
-york-summer-portal/node_modules
-york-summer-portal/*.tsbuildinfo
+.next
 node_modules
+out
+dist
+coverage
+*.tsbuildinfo
+.env*.local
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

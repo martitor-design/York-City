@@ -8,18 +8,17 @@ and resident resources.
 From the repository root:
 
 ```bash
-npm run install:app
+npm install
 npm run dev
 ```
 
-Then open the forwarded preview for port `3000`.
-
-The app itself lives in `york-summer-portal`, but the root scripts above are the
-recommended way to run it in Cursor Cloud or a local terminal.
+Then open the forwarded preview for port `3000`. In Cursor Cloud, use the
+Ports or Preview panel and open port `3000`.
 
 ## Other commands
 
 ```bash
 npm run build
 npm run typecheck
+npm audit --omit=dev
 ```
