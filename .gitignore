@@ -1,0 +1,5 @@
+york-summer-portal/.next
+york-summer-portal/node_modules
+york-summer-portal/*.tsbuildinfo
+node_modules
+npm-debug.log*

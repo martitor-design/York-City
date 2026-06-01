@@ -1,0 +1,12 @@
+{
+  "name": "york-city-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix york-summer-portal run dev -- --hostname 0.0.0.0 --port 3000",
+    "build": "npm --prefix york-summer-portal run build",
+    "start": "npm --prefix york-summer-portal run start",
+    "typecheck": "npm --prefix york-summer-portal run typecheck",
+    "install:app": "npm install --prefix york-summer-portal"
+  }
+}
