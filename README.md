@@ -12,8 +12,7 @@ npm install
 npm run dev
 ```
 
-Then open the forwarded preview for port `3000`. In Cursor Cloud, use the
-Ports or Preview panel and open port `3000`.
+The dev script binds to `0.0.0.0:3000` for cloud previews. Then open the forwarded preview for port `3000`. In Cursor Cloud, use the Ports or Preview panel and open port `3000`.
 
 ## Other commands
 
